@@ -1,0 +1,22 @@
+"","data_source","transition","number_of_fish"
+"1","acoustic","EFL_Shelf -> SFL_Shelf",17
+"2","acoustic","SFL_Shelf -> EFL_Shelf",13
+"3","mark-recapture","FL_Panhandle -> NCentral_GOA_Shelf",100
+"4","mark-recapture","FL_Panhandle -> EFL_Shelf",27
+"5","mark-recapture","FL_Panhandle -> TX_Shelf",12
+"6","mark-recapture","FL_Panhandle -> WFL_Shelf",10
+"7","mark-recapture","NCentral_GOA_Shelf -> FL_Panhandle",10
+"8","mark-recapture","FL_Panhandle -> SFL_Shelf",5
+"9","mark-recapture","TX_Shelf -> MX_Shelf",5
+"10","mark-recapture","EFL_Shelf -> SFL_Shelf",4
+"11","mark-recapture","NCentral_GOA_Shelf -> EFL_Shelf",3
+"12","mark-recapture","WFL_Shelf -> FL_Panhandle",3
+"13","mark-recapture","NCentral_GOA_Shelf -> TX_Shelf",2
+"14","mark-recapture","NCentral_GOA_Shelf -> WFL_Shelf",2
+"15","mark-recapture","WFL_Shelf -> SFL_Shelf",2
+"16","mark-recapture","EFL_Shelf -> WFL_Shelf",1
+"17","mark-recapture","MX_Shelf -> TX_Shelf",1
+"18","mark-recapture","SFL_Shelf -> EFL_Shelf",1
+"19","mark-recapture","SFL_Shelf -> WFL_Shelf",1
+"20","mark-recapture","TX_Shelf -> NCentral_GOA_Shelf",1
+"21","mark-recapture","WFL_Shelf -> EFL_Shelf",1
